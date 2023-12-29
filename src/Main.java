@@ -48,7 +48,7 @@ public class Main {
 
         String zacetna_investicijaaa = numberFormat.format(zacetna_investicijaa);
 
-        System.out.println("Navadno investiranje: Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% toliko keša: " + rezultatt + "eur");
+        System.out.println("Navadno investiranje: Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% toliko keša: " + rezultatt + " eur");
         return znesek;
     }
     //-------------------------------------
@@ -67,7 +67,7 @@ public class Main {
         //zacetno investicijo
         String zacetna_investicijaaa = numberFormat.format(zacetna_investicijaa);
 
-        System.out.println("Investiranje v precudovite sklade: Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% ter letnimi provizijami " + letne_provizije + "% toliko keša: " + rezultatt + "eur");
+        System.out.println("Investiranje v precudovite sklade: Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% ter letnimi provizijami " + letne_provizije + "% toliko keša: " + rezultatt + " eur");
         return znesek;
     }
 
@@ -87,7 +87,7 @@ public class Main {
         bd = bd.setScale(2, BigDecimal.ROUND_HALF_UP);
         double roundedNumber = bd.doubleValue();
 
-        System.out.println("In razlika med navadnim investiranjem in precudovitimi skladi je: " + rezultatt + "eur, kar procentualno ni " + provizije + "% kot vam oni to prikazejo, ampak je " + roundedNumber + "%");
+        System.out.println("In razlika med navadnim investiranjem in precudovitimi skladi je: " + rezultatt + " eur, kar procentualno ni " + provizije + "% kot vam oni to prikazejo, ampak je " + roundedNumber + "%");
         System.out.println("Pa v izračun sploh nismo upoštevali še vstopnih in izstopnih stroškov in še vseh drugih vark.");
     }
 
