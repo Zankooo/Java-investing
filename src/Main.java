@@ -17,7 +17,7 @@ public class Main {
             System.out.println("Koliko let boste držali keš notri? ");
             int leta = sc.nextInt();
 
-            System.out.println("Preko skladov koliko vam zaračunajo letne provizije? (ponavadi je 2%)");
+            System.out.println("Preko skladov; koliko vam zaračunavajo vsako letne provizije? Ponavadi sta to: upravljalska provizija + se ena (V Sloveniji sta ponavadi te dve proviziji skupaj letno od 2.70% do 5.60%)");
             float letna_provizija = sc.nextFloat();
 
             System.out.println("------------------------------------------------");
@@ -89,7 +89,7 @@ public class Main {
         double roundedNumber = bd.doubleValue();
 
         System.out.println("In razlika med navadnim investiranjem in precudovitimi skladi je: " + rezultatt + " eur, kar procentualno ni " + provizije + "% kot vam oni to prikazejo, ampak je " + roundedNumber + "%");
-        System.out.println("Pa v izračun sploh nismo upoštevali še vstopnih in izstopnih stroškov in še vseh drugih vark.");
+        System.out.println("Pa v izračun sploh nismo upoštevali še vstopnih stroškov");
     }
 
     //-------------------------------------
