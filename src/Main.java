@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         String kje_sem = "jebote, zdj sm pa na branchu dodatni stroski update";
+
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Vpisite zacetno investicijo v kešu? ");
             double znesek = sc.nextDouble();
