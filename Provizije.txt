@@ -1,0 +1,29 @@
+GENERALI SKLADI:
+    1. Galileo -> etfja msci ac world 60%, markit iboxx overall eur total return 40% (provizije = enkratni vstopni 2%, upravljalska letna provizija 2%, transakcijski letni stroski 0.4%)
+    2. Rastko Evropa -> msci europe je isti etf (provizije = enkratni vstopni 2%, upravljalska letna provizija 2%, transakcijski letni stroski 0.9%)
+    3. Prvi Izbor -> msci ac world 100% (provizije = enkratni vstopni 1.5%, upravljalska letna provizija 0.9%, transakcijski letni stroski 0.8%)
+    4. Novi trgi -> msci emerging market 100% (provizije = enkratni vstopni 2%, upravljalska letna provizija 2.1%, transakcijski letni stroski 0.1%)
+    5. Tehnologija -> MSCI World Information Technology 60%, MSCI World Communication Services Sector (40%) (provizije = enkratni vstopni 2%, upravljalska letna provizija 2.1%, transakcijski letni stroski 2%)
+    6. Surovina in energija -> MSCI World Materials Sector (40%), MSCI World Energy Sector (60%) (provizije = enkratni vstopni 2%, upravljalska letna provizija 2.6%, transakcijski letni stroski 0.5%)
+    7. Latinska amerika -> MSCI Emerging Markets Latin America (provizije = enkratni vstopni 2%, upravljalska letna provizija 2.4%, transakcijski letni stroski 0.2%)
+
+
+SAVA SKLADI:
+    1. Globalni delniški -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.36%)
+    2. Razviti trgi -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.35%)
+    3. Trgi v razvoju -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.38%)
+    4. Tehnologija -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.34%)
+
+
+TRIGLAV SKLADI:
+    1. Aktivni -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 2.31%)
+    2. Azija -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski poslovanja sklada 2.71%)
+    3. Evropa -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 2.94%)
+    4. Hitro rastoča podjetja -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 5.52%)
+    5. Okoljska perspektiva -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 2.72%)
+    6. Severna amerika -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 2.78%)
+    7. Tehnologije prihodnosti -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 2.78%)
+    8. Trgi v razvoju -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 3.6%)
+
+
+
