@@ -17,7 +17,8 @@ public class Main {
             System.out.println("Koliko let boste držali keš notri? ");
             int leta = sc.nextInt();
 
-            System.out.println("Preko skladov; koliko vam zaračunavajo vsako letne provizije? Ponavadi sta to: upravljalska provizija + se ena (V Sloveniji sta ponavadi te dve proviziji skupaj letno od 2.70% do 5.60%)");
+            System.out.println("Preko skladov; koliko vam zaračunavajo vsako letne provizije? Ponavadi sta to: upravljalska provizija + se ena.");
+            System.out.println("V Sloveniji sta ponavadi te dve proviziji skupaj letno od 2.70% do 5.60%");
             float letna_provizija = sc.nextFloat();
 
             System.out.println("------------------------------------------------");

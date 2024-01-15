@@ -8,7 +8,7 @@ GENERALI SKLADI:
     7. Latinska amerika -> MSCI Emerging Markets Latin America (provizije = enkratni vstopni 2%, upravljalska letna provizija 2.4%, transakcijski letni stroski 0.2%)
 
     Povprecni letni stroski torej upravljalska plus transakcijski (vprasat ja da se prepricam ce se tadva stroska sestejeta!)= 2.71% == 2.7%
-    Povprecni vstopni stroski (vprasat ali ti to odstejejo vsak mesec ce vplacujes vsak mesec!) = 1.92%
+    Povprecni vstopni stroski (vprasat ali ti to odstejejo vsak mesec ce vplacujes vsak mesec!) = 1.92% -> ce vplacujes fiksno vsak mesec ti ne trgajo vsak mesec. ce pa ne placujes fiksno vkas mesec pa ti
 
 
 ---------------------
@@ -18,6 +18,10 @@ SAVA SKLADI:
     2. Razviti trgi -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.35%)
     3. Trgi v razvoju -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.38%)
     4. Tehnologija -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.25%, tekoci stroski podskladov 2.34%)
+
+    -> enkratni vstopni je pa isto kot pri generali
+    -> upravljalska letna provizija in tekoci stroski podskladov se odstejeta od donosa ki ga upravitelj naredi
+
     Povprecni letni stroski torej upravljalska plus tekoci stroski podskladov (vprasat ja da se prepricam ce se tadva stroska sestejeta!) = 4.6%
     Povprecni vstopni stroski (vprasat ali ti to odstejejo vsak mesec ce vplacujes vsak mesec!) = 3%
 
@@ -34,11 +38,19 @@ TRIGLAV SKLADI:
     7. Tehnologije prihodnosti -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 2.78%)
     8. Trgi v razvoju -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2.5%, tekoci stroski poslovanja sklada 3.6%)
 
+    ->
+    ->
+
     Povprecni letni stroski torej upravljalska + tekoci stroski poslovanja sklada (vprasat ja da se prepricam ce se tadva stroska sestejeta!) = 5.638% == 5.6%
     Povprecni vstopni stroski (vprasat ali ti to odstejejo vsak mesec ce vplacujes vsak mesec!) = 3%
 
+
+---------------------
 
 NLB SKLADI:
     1. Azija delniški -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2%, izstopni 1%)
     2. Dinamicni razviti trdi -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2%, izstopni 1%)
     3. Globalni -> (provizije = enkratni vstopni 3%, upravljalska letna provizija 2%, izstopni 1%)
+
+    ->
+    ->
