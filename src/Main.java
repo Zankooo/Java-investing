@@ -6,17 +6,17 @@ public class Main {
     public static void main(String[] args) {
         
         try (Scanner sc = new Scanner(System.in)) {
-            System.out.println("Vpisite zacetno investicijo v kešu? ");
+            System.out.println("Vpišite zacetno investicijo v kešu? ");
             double znesek = sc.nextDouble();
 
-            System.out.println("Koliko procentualno donosa boste recimo naredili? (povprecje ameriškega indeksa sp&500 je 10%)");
+            System.out.println("Koliko procentualno donosa boste recimo naredili? (povprečje ameriškega indeksa sp&500 je 10%)");
             int obrestna_mera = sc.nextInt();
             float realna_ob_mera = ((float) obrestna_mera / 100) + 1;
 
             System.out.println("Koliko let boste držali keš notri? ");
             int leta = sc.nextInt();
 
-            System.out.println("Preko skladov koliko vam zaračunajo letne provizije? (ponavadi je 2%)");
+            System.out.println("Preko aktivno vodenih skladov; koliko vam zaračunajo vseh letnih stroškov skupaj? (ponavadi je 2% lahko je tudi več)");
             float letna_provizija = sc.nextFloat();
 
             System.out.println("------------------------------------------------");
@@ -48,7 +48,7 @@ public class Main {
 
         String zacetna_investicijaaa = numberFormat.format(zacetna_investicijaa);
 
-        System.out.println("Navadno investiranje: Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% toliko keša: " + rezultatt + " eur");
+        System.out.println("Navadno investiranje --> Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% toliko keša: " + rezultatt + " eur");
         return znesek;
     }
     //-------------------------------------
@@ -67,7 +67,7 @@ public class Main {
         //zacetno investicijo
         String zacetna_investicijaaa = numberFormat.format(zacetna_investicijaa);
 
-        System.out.println("Investiranje v precudovite sklade: Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% ter letnimi provizijami " + letne_provizije + "% toliko keša: " + rezultatt + " eur");
+        System.out.println("Investiranje v precudovite aktivno vodene sklade --> Po " + leta + " letih imate z začetno investicijo " + zacetna_investicijaaa + "eur in donosom " + obrestna_mera + "% ter letnimi provizijami " + letne_provizije + "% toliko keša: " + rezultatt + " eur");
         return znesek;
     }
 
@@ -87,8 +87,8 @@ public class Main {
         bd = bd.setScale(2, BigDecimal.ROUND_HALF_UP);
         double roundedNumber = bd.doubleValue();
 
-        System.out.println("In razlika med navadnim investiranjem in precudovitimi skladi je: " + rezultatt + " eur, kar procentualno ni " + provizije + "% kot vam oni to prikazejo, ampak je " + roundedNumber + "%");
-        System.out.println("Pa v izračun sploh nismo upoštevali še vstopnih in izstopnih stroškov in še vseh drugih vark.");
+        System.out.println("In razlika med navadnim investiranjem in precudovitimi skladi je --> " + rezultatt + " eur, kar procentualno ni " + provizije + "% kot vam oni to prikazejo, ampak je " + roundedNumber + "% !");
+        System.out.println("Pa v izračun sploh nismo upoštevali še vstopnih in izstopnih stroškov in še vseh drugih prevar.");
     }
 
     //-------------------------------------
