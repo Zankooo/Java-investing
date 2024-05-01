@@ -16,7 +16,7 @@ public class Main {
             System.out.println("Koliko let boste držali keš notri? ");
             int leta = sc.nextInt();
 
-            System.out.println("Preko aktivno vodenih skladov; koliko vam zaračunajo vseh letnih stroškov skupaj? (ponavadi je 2% lahko je tudi več)");
+            System.out.println("Preko aktivno vodenih skladov; koliko vam zaračunajo vseh letnih stroškov skupaj? (ponavadi je od 2% vse 3.5% ali celo več)");
             float letna_provizija = sc.nextFloat();
 
             System.out.println("------------------------------------------------");
