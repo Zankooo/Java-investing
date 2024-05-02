@@ -8,7 +8,7 @@
 
 
 
-### Namen programa je predstaviti kako lahko pri vzajemnih skladih na prvi pogled majhne letne provizije (1,5% - 2,5%) in majhni vstopni / izstopni stroški na dolgi rok vodijo do strašansko nižjih donosov kot če investiramo samostojno.
+### Namen programa je predstaviti kako lahko pri vzajemnih skladih na prvi pogled majhne letne provizije (2% - 3,5%) in majhni vstopni / izstopni stroški na dolgi rok vodijo do strašansko nižjih donosov kot če investiramo samostojno.
 
 ### Sporočilo: Če boš za svoje finance poskrbel sam, se boš čez nekaj časa ti vozil v novem avtu. Drugače se bo s tvojim denarjem vozil v novem avtu nekdo drug.
 
